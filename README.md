@@ -6,17 +6,12 @@ my-dashboard is a responsive dashboard built with React and Redux, featuring use
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository:**
 
-
-git clone 
-cd my-dashboard
-
-    Install dependencies:
+1) Install dependencies:
 
 npm install
 
-    Start the development server:
+2) Start the development server:
 
 npm start
 
